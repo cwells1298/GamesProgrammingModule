@@ -1,0 +1,6 @@
+﻿  19 File(s) copied
+  19 File(s) copied
+  main.cpp
+C:\Users\Conor\Desktop\Games Programming Assignment (2)\Games Programming Assignment\src\main.cpp(114): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GPAssignment.vcxproj -> C:\Users\Conor\Desktop\Games Programming Assignment (2)\Games Programming Assignment\bin\bin\GPAssignment.exe
+  GPAssignment.vcxproj -> C:/Users/Conor/Desktop/Games Programming Assignment (2)/Games Programming Assignment/bin/bin/GPAssignment.pdb (Full PDB)

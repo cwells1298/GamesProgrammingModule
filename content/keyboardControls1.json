@@ -1,0 +1,11 @@
+{
+"moveLeft" : "a",
+"moveRight" : "d",
+"jump" : "w",
+"attack" : "space",
+"pause" : "escape",
+"selectMenuItem" : "return",
+"scrollMenuItemUp" : "up",
+"scrollMenuItemDown" : "down",
+"toggleFullscreen" : "f"
+}
